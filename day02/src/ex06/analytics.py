@@ -74,7 +74,7 @@ class Research:
         else:
             message = 'The report hasn’t been created due to an error'
         TOKEN = ${{ secrets.YOUR_TOCKEN }}
-        chat_id = "1133163052"
+        chat_id = ${{ secrets.CHAT_ID }}
         url = f"https://api.telegram.org/bot{TOKEN}/sendMessage?chat_id={chat_id}&text={message}"
         requests.get(url).json()
 
