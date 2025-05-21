@@ -1,0 +1,15 @@
+Wed Apr 16 12:32:24 2025    stats
+
+         667107 function calls (646491 primitive calls) in 4.819 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1339 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     87/1    0.000    0.000    4.819    4.819 {built-in method builtins.exec}
+        1    0.000    0.000    4.819    4.819 financial_enhanced.py:1(<module>)
+        1    0.000    0.000    4.571    4.571 financial_enhanced.py:40(main)
+        1    0.000    0.000    4.349    4.349 financial_enhanced.py:12(reciever)
+        1    0.000    0.000    3.758    3.758 /usr/lib/python3.10/urllib/request.py:139(urlopen)
+
+

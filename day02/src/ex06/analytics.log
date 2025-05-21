@@ -1,0 +1,22 @@
+2025-03-21 01:20:42,504 INFO Created an example of Research class
+2025-03-21 01:20:42,504 INFO Research.file_reader() was called: Reading the contents of data.csv. The has_header parameter is set to True
+2025-03-21 01:20:42,504 INFO Research.check_header() was called: Checking format of file header
+2025-03-21 01:20:42,504 INFO Research.check_content() was called: Checking format of file contents
+2025-03-21 01:20:42,504 INFO 11 items were edded to result list
+2025-03-21 01:20:42,504 INFO Created an example of Calculation or Analytics class
+2025-03-21 01:20:42,504 INFO Calculations.counts() was called: Calculating the counts of heads and tails
+2025-03-21 01:20:42,504 INFO Working with self.data
+2025-03-21 01:20:42,504 INFO 5 heads, 6 tailes recognized
+2025-03-21 01:20:42,504 INFO Calculations.fractions() was called: Calculating percentage of heads and tails
+2025-03-21 01:20:42,505 INFO Calculations.counts() was called: Calculating the counts of heads and tails
+2025-03-21 01:20:42,505 INFO Working with self.data
+2025-03-21 01:20:42,505 INFO 5 heads, 6 tailes recognized
+2025-03-21 01:20:42,505 INFO Calculated 45.45454545454545% of heads and 54.54545454545454% of tails
+2025-03-21 01:20:42,505 INFO Analytics.predict_random() was called: Making forecast for next 3 observations
+2025-03-21 01:20:42,505 INFO Forecast for 3 observations done
+2025-03-21 01:20:42,505 INFO Analytics.predict_last() was called: Getting last element in heads and tailes data: [1, 0]
+2025-03-21 01:20:42,505 INFO Calculations.counts() was called: Calculating the counts of heads and tails
+2025-03-21 01:20:42,505 INFO Working with given parameter
+2025-03-21 01:20:42,505 INFO 0 heads, 3 tailes recognized
+2025-03-21 01:20:42,505 INFO Analytics.save_file() was called: Saving the report in report.txt file
+2025-03-21 01:20:42,505 INFO Report saved successfully
