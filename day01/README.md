@@ -3,8 +3,6 @@
 Summary: Today we will help you acquire basic knowledge of the syntax and semantics
 of Python.
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -163,7 +161,7 @@ them whatever you want. In the attached file ds.csv (you will recognize it from 
 previous day), you will have several columns separated by a comma with different
 data about vacancies.
 * Design a Python script called read_and_write.py whose role is to open the file
-[ds.csv](https://drive.google.com/file/d/1tDEDTytYaUrfJsXD5z5QvJSb5VNlL-eZ/view), read the data it contains, replace all the comma delimiters with ’\t’ and
+ds.csv, read the data it contains, replace all the comma delimiters with ’\t’ and
 save it to another file ds.tsv. Be careful, your data may contain commas. If you
 replace them, you will corrupt the data.
 * Put your script in the ex01 folder in the root directory of your repository.

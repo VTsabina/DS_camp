@@ -2,8 +2,6 @@
 
 Summary: Today we will help you write code that works faster.
 
-💡 [Tap here](https://new.oprosso.net/p/4cb31ec3f47a4596bc758ea1861fb624) **to leave your feedback on the project**. It's anonymous and will help our team make your educational experience better. We recommend completing the survey immediately after the project.
-
 ## Contents
 
 1. [Chapter I](#chapter-i) \
@@ -311,7 +309,7 @@ is quite important if you work with big data. Or maybe smaller-scale data can al
 you trouble? You have already got used to making experiments. Let us do yet another
 one.
 
-* Download the [MovieLens dataset](https://files.grouplens.org/datasets/movielens/ml-25m.zip).
+* Download the MovieLens dataset.
 * Unzip it. You will need the file ratings.csv (678.3 MB is not that big, right?).
 * Create the first script, ordinary.py. It should have only one function: it reads all
 the file lines into a list and then returns it. In the main program, write a loop that
