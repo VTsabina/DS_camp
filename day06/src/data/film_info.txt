@@ -1,0 +1,15 @@
+movieId,Title,Director,Budget,Cumulative Worldwide Gross,Runtime
+0114885*Forest Whitaker*Waiting to Exhale*16000000*81452156*124
+0114709*John Lasseter*Toy Story*30000000*394436586*81
+0114576*Peter Hyams*Sudden Death*35000000*64350171*111
+0114319*Sydney Pollack*Sabrina*58000000*53696959*127
+0113987*Oliver Stone*Nixon*44000000*13681765*192
+0113497*Joe Johnston*Jumanji*65000000*262821940*104
+0113277*Michael Mann*Heat*60000000*187436818*170
+0113228*Howard Deutch*Grumpier Old Men*25000000*71518503*101
+0113189*Martin Campbell*GoldenEye*60000000*352194034*130
+0113041*Charles Shyer*Father of the Bride Part II*30000000*76594107*106
+0112896*Mel Brooks*Dracula: Dead and Loving It*30000000*10772144*88
+0112453*Simon Wells*Balto*N/A*11349090*78
+0112346*Rob Reiner*The American President*62000000*107879496*114
+0112302*Peter Hewitt*Tom and Huck*N/A*23920048*97

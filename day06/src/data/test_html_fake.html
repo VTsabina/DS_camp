@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Test Movie Page</title>
+</head>
+<body>
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Movie",
+        "name": "The Shawshank Redemption",
+        "director": [{
+            "@type": "Person",
+            "name": "Frank Darabont"
+        }]
+    }
+    </script>
+
+    <section data-testid="BoxOffice">
+        <ul>
+            <li>
+                <span class="ipc-metadata-list-item__label">Budget</span>
+                <span class="ipc-metadata-list-item__list-content-item">$25,000,000</span>
+            </li>
+            <li>
+                <span class="ipc-metadata-list-item__label">Gross worldwide</span>
+                <span class="ipc-metadata-list-item__list-content-item">$73,300,000</span>
+            </li>
+        </ul>
+    </section>
+
+    <li data-testid="title-techspec_runtime">
+        <div>2h 22m</div>
+    </li>
+</body>
+</html>
